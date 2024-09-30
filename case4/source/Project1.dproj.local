@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/17 18:13:54.000.281,=E:\pavel\projects\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/17 19:36:07.000.151,=E:\pavel\projects\Embarcadero\Studio\Projects\FormUnit2.pas</Transaction>
+    <Transaction>2024/09/17 19:36:07.000.916,=E:\pavel\projects\Embarcadero\Studio\Projects\WebModuleUnit2.pas</Transaction>
+    <Transaction>2024/09/17 19:36:39.000.686,=E:\pavel\projects\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/18 17:04:41.000.937,E:\pavel\projects\Embarcadero\Studio\Projects\Unit1.dfm=E:\pavel\projects\Embarcadero\Studio\Projects\Proj_Oz_practice.dfm</Transaction>
+    <Transaction>2024/09/18 17:04:41.000.937,E:\pavel\projects\Embarcadero\Studio\Projects\Unit1.pas=E:\pavel\projects\Embarcadero\Studio\Projects\Proj_Oz_practice.pas</Transaction>
+    <Transaction>2024/09/18 17:04:58.000.429,E:\pavel\projects\Embarcadero\Studio\Projects\Project1.dproj=E:\pavel\projects\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/09/24 17:10:15.000.817,=E:\pavel\projects\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2024/09/24 17:10:55.000.053,E:\pavel\projects\Embarcadero\Studio\Projects\Oz_praktika_ISAPI_2\WebModuleUnit1.dfm=E:\pavel\projects\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2024/09/24 17:10:55.000.053,E:\pavel\projects\Embarcadero\Studio\Projects\Oz_praktika_ISAPI_2\WebModuleUnit1.pas=E:\pavel\projects\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2024/09/24 17:11:01.000.747,E:\pavel\projects\Embarcadero\Studio\Projects\Oz_praktika_ISAPI_2\Project1.dproj=E:\pavel\projects\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
